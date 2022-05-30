@@ -1,2 +1,3 @@
 # eqworks_1
-Solution to product work sample question 1 from eqworks
+
+A coding challenge I had to do when applying for an internship with EQ Works.
